@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Replica\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Inspect System"
+msgstr "Inspecionar Sistema"
+
+msgid "_Preferences"
+msgstr "_Preferências"
+
+msgid "_About Replica"
+msgstr "_Sobre o Replica"
+
+msgid "Credits"
+msgstr "Créditos"
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Generate reusable infrastructure artifacts"
+msgstr "Gere artefatos de infraestrutura reutilizáveis"
+
+msgid "General"
+msgstr "Geral"
+
+msgid "Behavior"
+msgstr "Comportamento"
+
+msgid "Include comments"
+msgstr "Incluir comentários"
+
+msgid "Add comments to generated artifacts"
+msgstr "Adicionar comentários aos artefatos gerados"
+
+msgid "Save artefact"
+msgstr "Salvar artefato"
+
+msgid "Artefact saved successfully!"
+msgstr "Artefato salvo com sucesso!"

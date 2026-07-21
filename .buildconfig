@@ -1,0 +1,16 @@
+[default]
+name=Default
+runtime=host
+toolchain=default
+config-opts=
+run-opts=
+prefix=/var/home/adryan/Projects/.gnome-builder/projects/Replica/install/host
+app-id=
+postbuild=
+prebuild=
+run-command=
+
+[default.environment]
+LANG=pt_BR.UTF-8
+LANGUAGE=pt_BR
+LC_ALL=pt_BR.UTF-8
